@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "maintenance": false,
+  "message": "",
+  "game": {
+    "maxHints": 3,
+    "dailyLimit": 10
+  }
+}
