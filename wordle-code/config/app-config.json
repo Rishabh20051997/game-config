@@ -1,8 +1,7 @@
 {
   "version": 1,
-  "maintenance": true,
+  "maintenance": false,
   "maintenanceMessage": "We are currently performing maintenance on the server. Please check back later.",
-  "message": "",
   "game": {
     "maxHints": 3,
     "dailyLimit": 10
