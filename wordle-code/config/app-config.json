@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "maintenance": false,
+  "maintenance": true,
   "message": "",
   "game": {
     "maxHints": 3,
