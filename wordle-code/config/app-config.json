@@ -1,9 +1,23 @@
 {
   "version": 1,
   "maintenance": false,
-  "maintenanceMessage": "We are currently performing maintenance on the server. Please check back later.",
+  "maintenanceMessage": "",
   "game": {
-    "maxHints": 3,
-    "dailyLimit": 10
+    "maxHints": 5,
+    "dailyLimit": 1
+  },
+  "versionUpdate": {
+    "history": [
+      {
+        "version": "0.0.2",
+        "updateType": "hard",
+        "isForce": false
+      },
+      {
+        "version": "0.0.1",
+        "updateType": "hard",
+        "isForce": false
+      }
+    ]
   }
 }
