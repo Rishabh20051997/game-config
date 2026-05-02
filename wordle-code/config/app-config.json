@@ -11,7 +11,7 @@
       {
         "version": "0.0.3",
         "updateType": "hard",
-        "isForce": true
+        "isForce": false
       },
       {
         "version": "0.0.2",
