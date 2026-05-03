@@ -9,6 +9,11 @@
   "versionUpdate": {
     "history": [
       {
+        "version": "0.0.4",
+        "updateType": "hard",
+        "isForce": true
+      },
+      {
         "version": "0.0.3",
         "updateType": "hard",
         "isForce": false
