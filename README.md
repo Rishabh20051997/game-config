@@ -1,6 +1,6 @@
 # game-config
 
-Remote JSON for **Wordle Code** lives under **`wordle-code/config/`** (for example `app-config.json`). Static **Privacy Policy** pages for app review live under **`docs/`**.
+Remote JSON for **Wordle Code** lives under **`wordle-code/config/`** (for example `app-config.json`). Static **Privacy Policy** pages live under **`docs/`**.
 
 ## GitHub Pages (Privacy Policy)
 
