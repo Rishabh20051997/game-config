@@ -9,9 +9,24 @@
   "versionUpdate": {
     "history": [
       {
-        "version": "0.0.7",
+        "version": "0.6.0",
+        "updateType": "soft",
+        "isForce": true
+      },
+      {
+        "version": "0.5.0",
         "updateType": "hard",
         "isForce": true
+      },
+       {
+        "version": "0.4.0",
+        "updateType": "hard",
+        "isForce": true
+      },
+      {
+        "version": "0.0.7",
+        "updateType": "hard",
+        "isForce": false
       },
       {
         "version": "0.0.6",
