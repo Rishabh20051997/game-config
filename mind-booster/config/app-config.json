@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "maintenance": false,
+  "maintenanceMessage": "",
+  "game": {
+    "maxHints": 5,
+    "dailyLimit": 1
+  },
+  "versionUpdate": {
+    "history": [
+      {
+        "version": "1.0.0",
+        "updateType": "hard",
+        "isForce": true
+      },
+      {
+        "version": "0.7.0",
+        "updateType": "soft",
+        "isForce": false
+      },
+      {
+        "version": "0.6.0",
+        "updateType": "soft",
+        "isForce": false
+      },
+      {
+        "version": "0.5.0",
+        "updateType": "hard",
+        "isForce": true
+      },
+       {
+        "version": "0.4.0",
+        "updateType": "hard",
+        "isForce": true
+      },
+      {
+        "version": "0.0.7",
+        "updateType": "hard",
+        "isForce": false
+      },
+      {
+        "version": "0.0.6",
+        "updateType": "hard",
+        "isForce": false
+      },
+      {
+        "version": "0.0.4",
+        "updateType": "hard",
+        "isForce": false
+      },
+      {
+        "version": "0.0.3",
+        "updateType": "hard",
+        "isForce": false
+      },
+      {
+        "version": "0.0.2",
+        "updateType": "hard",
+        "isForce": false
+      },
+      {
+        "version": "0.0.1",
+        "updateType": "hard",
+        "isForce": false
+      }
+    ]
+  }
+}
